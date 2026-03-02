@@ -55,7 +55,6 @@ job-application-tracker-cli/
 ├── analysis.py
 ├── seed.py
 ├── requirements.txt
-└── applications.csv (generated via export)
 
 ---
 
@@ -184,3 +183,4 @@ pandas
 matplotlib
 mysql-connector-python
 ```
+
